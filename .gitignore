@@ -1,0 +1,2 @@
+# Ignorar arquivos de checkpoints do Jupyter
+*-checkpoint.py
