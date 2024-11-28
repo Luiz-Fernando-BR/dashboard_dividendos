@@ -1,5 +1,5 @@
 # Análise de ações que pagam dividendos de pelo menos 6%
-Este projeto consiste em uma aplicação interativa desenvolvida com Streamlit, que permite analisar os dividendos pagos por ações nos últimos 12 meses. 
+Este projeto consiste em uma aplicação interativa desenvolvida com Streamlit, que permite analisar os dividendos pagos por ações listadas na B3 (bolsa de valores brasileira) nos últimos 12 meses. 
 O principal objetivo é calcular e exibir o valor total de dividendos pagos, juntamente com um gráfico que ilustra o histórico de pagamentos, com base no Dividend Yield (DY) de no mínimo 6%.
 # Funcionalidades
   - Consulta de Dividendos: O usuário pode inserir o código de uma ação (no formato .SA para ações brasileiras) e a aplicação irá buscar os dados históricos de dividendos dos últimos 12 meses.
